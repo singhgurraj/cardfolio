@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">cardfolio</string>
+    <string name="app_name">Cardfolio</string>
+    <string name="card_name">Your Name</string>
+    <string name="card_hobby">Add a hobby</string>
+    <string name="card_name_label">Name</string>
+    <string name="card_hobby_label">Hobby</string>
+    <string name="card_age_label">Age</string>
+    <string name="age_warning">numbers only</string>
+    <string name="button_edit">Edit</string>
+    <string name="button_show">Show</string>
+    <string name="status_editing">Editing</string>
+    <string name="status_locked">Locked</string>
 </resources>
